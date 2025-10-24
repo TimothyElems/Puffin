@@ -7,7 +7,7 @@
 [![Commercial License](https://img.shields.io/badge/Commercial-License%20Available-green.svg)](mailto:commercial@puffin.dev)
 [![Build Status](https://img.shields.io/github/actions/workflow/status/yourusername/puffin/ci.yml?branch=main)](https://github.com/yourusername/puffin/actions)
 [![Go Report Card](https://goreportcard.com/badge/github.com/yourusername/puffin)](https://goreportcard.com/report/github.com/yourusername/puffin)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/:interval/TimothyElems/Puffin)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/:interval/:TimothyElems/:Puffin)
 <!-- ![GitHub Sponsors](https://img.shields.io/github/sponsors/TimothyElems) -->
 
 
