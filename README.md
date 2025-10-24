@@ -2,14 +2,14 @@
 ...because kv paired databases don't exist yet  
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](buymeacoffee.com/timothyelems)
 
-[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![Rust Version](https://img.shields.io/badge/rust-1.82%2B-orange.svg)](https://www.rust-lang.org)
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![Commercial License](https://img.shields.io/badge/Commercial-License%20Available-green.svg)](mailto:commercial@puffin.dev)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/yourusername/puffin/ci.yml?branch=main)](https://github.com/yourusername/puffin/actions)
-[![Go Report Card](https://goreportcard.com/badge/github.com/yourusername/puffin)](https://goreportcard.com/report/github.com/yourusername/puffin)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/:interval/:TimothyElems/:Puffin)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/TimothyElems/Puffin/ci.yml?branch=main&label=build)](https://github.com/TimothyElems/Puffin/actions)
+[![Crates.io](https://img.shields.io/crates/v/puffin.svg)](https://crates.io/crates/puffin)
+[![docs.rs](https://img.shields.io/docsrs/puffin/latest)](https://docs.rs/puffin)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/TimothyElems/Puffin)
 <!-- ![GitHub Sponsors](https://img.shields.io/github/sponsors/TimothyElems) -->
-
 
 
 # Puffin
