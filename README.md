@@ -2,7 +2,7 @@
 ...because kv paired databases don't exist yet  
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](buymeacoffee.com/timothyelems)
 
-[![Go Version](https://img.shields.io/badge/go-1.22+-blue.svg)](https://golang.org)
+[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![Commercial License](https://img.shields.io/badge/Commercial-License%20Available-green.svg)](mailto:commercial@puffin.dev)
 [![Build Status](https://img.shields.io/github/actions/workflow/status/yourusername/puffin/ci.yml?branch=main)](https://github.com/yourusername/puffin/actions)
